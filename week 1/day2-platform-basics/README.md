@@ -213,3 +213,5 @@ Stores attendance details of students.
 
 ![](https://github.com/24pa1a05f2-design/salesforce-training/blob/main/week%201/day2-platform-basics/Agentforce%20360%20Platform%20Basics.png?raw=true)
 
+![](https://github.com/24pa1a05f2-design/salesforce-training/blob/main/week%201/day2-platform-basics/Agentforce%20360%20Platform%20Development%20Basics.png?raw=true)
+
