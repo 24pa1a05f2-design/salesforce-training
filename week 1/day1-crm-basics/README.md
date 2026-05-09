@@ -84,4 +84,6 @@ A student who has shown interest in joining the college through admission calls/
 **Oppurtunity**:Admission Application/Enrollment
 Represents the chance of converting interested student in to a successfully admitted student.
 
+![](https://github.com/24pa1a05f2-design/salesforce-training/blob/main/week%201/day1-crm-basics/Salesforce%20CRM.png?raw=true)
+
 
