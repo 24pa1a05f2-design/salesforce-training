@@ -88,4 +88,6 @@ Represents the chance of converting interested student in to a successfully admi
 
 ![](https://github.com/24pa1a05f2-design/salesforce-training/blob/main/week%201/day1-crm-basics/Salesforce%20Developer.png?raw=true)
 
+![](https://github.com/24pa1a05f2-design/salesforce-training/blob/main/week%201/day1-crm-basics/Salesforce%20Values.png?raw=true)
+
 
