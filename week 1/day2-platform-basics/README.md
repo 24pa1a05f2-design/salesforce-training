@@ -78,15 +78,15 @@ When a user clicks a tab, they can view and manage related records.
 ---
 
 # 3. Difference Between Configuration and Coding
+# Configuration
 
-| Configuration | Coding |
-|---|---|
-| Done using clicks and tools | Done using programming languages |
-| Requires little or no coding knowledge | Requires programming knowledge |
-| Faster to implement | Takes more development time |
-| Uses Salesforce features like Flow, Validation Rules, Process Builder | Uses Apex, Visualforce, Lightning Components |
-| Easier to maintain | More flexible and powerful |
-| Best for simple business requirements | Best for complex business logic |
+Configuration in Salesforce means customizing the platform using built-in tools without writing code. It is a click-based approach used to create objects, fields, validation rules, workflows, reports, dashboards, and flows. Configuration is easy to learn, faster to implement, and suitable for simple to medium business requirements. It helps administrators customize Salesforce efficiently with minimal technical knowledge.
+
+---
+
+# Coding
+
+Coding in Salesforce means developing custom functionality using programming languages such as Apex, Visualforce, and Lightning Web Components (LWC). Coding is used when business requirements are complex and cannot be achieved using configuration alone. It provides more flexibility, advanced automation, and custom logic, but it requires programming skills and more development effort.
 
 ### Example
 
