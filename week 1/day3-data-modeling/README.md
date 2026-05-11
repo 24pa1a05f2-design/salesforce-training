@@ -207,3 +207,8 @@ Validation rules and formula fields improve data quality by reducing manual erro
 
 ---
 
+#Screenshot
+![](https://github.com/24pa1a05f2-design/salesforce-training/blob/main/week%201/day3-data-modeling/Data%20Modeling.png?raw=true)
+
+![]()
+
