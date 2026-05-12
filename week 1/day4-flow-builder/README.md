@@ -187,3 +187,5 @@ Automation plays a crucial role in modern enterprise environments where large vo
 - **Enhances Decision Making:** Real-time data updates help in faster business decisions  
 
 In enterprise systems like Salesforce, automation ensures smooth business operations and better customer experience while reducing operational costs.
+
+![](https://github.com/24pa1a05f2-design/salesforce-training/blob/main/week%201/day4-flow-builder/Flow%20Builder%20Basics.png?raw=true)
