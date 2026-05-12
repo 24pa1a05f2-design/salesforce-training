@@ -189,3 +189,5 @@ Automation plays a crucial role in modern enterprise environments where large vo
 In enterprise systems like Salesforce, automation ensures smooth business operations and better customer experience while reducing operational costs.
 
 ![](https://github.com/24pa1a05f2-design/salesforce-training/blob/main/week%201/day4-flow-builder/Flow%20Builder%20Basics.png?raw=true)
+
+![](https://github.com/24pa1a05f2-design/salesforce-training/blob/main/week%201/day4-flow-builder/Data%20and%20Action%20in%20Flows.png?raw=true)
