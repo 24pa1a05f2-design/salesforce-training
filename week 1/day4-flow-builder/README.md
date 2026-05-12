@@ -131,7 +131,7 @@ Update Registration Status
      ▼
 
 Finish
-
+```
 # Manual vs Automated Process
 
 ## Manual Process
