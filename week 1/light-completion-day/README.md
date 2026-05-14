@@ -63,3 +63,5 @@ How are platform events monitored and logged to track failures or errors in real
 
 # ScreenShots
 ![](https://github.com/24pa1a05f2-design/salesforce-training/blob/main/week%201/light-completion-day/Agentforce%20360%20Platform%20event%20Basics.png?raw=true)
+
+![](https://github.com/24pa1a05f2-design/salesforce-training/blob/main/week%201/light-completion-day/Command-Line%20Interface.png?raw=true)
