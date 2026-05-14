@@ -167,3 +167,5 @@ Apex helps organizations build scalable and flexible solutions that match real b
 
 # 7.ScreenShots
 ![](https://github.com/24pa1a05f2-design/salesforce-training/blob/main/week%201/day5-apex-introduction/Apex%20&%20.NET%20Basics.png?raw=true)
+
+![](https://github.com/24pa1a05f2-design/salesforce-training/blob/main/week%201/day5-apex-introduction/Apex%20Basics%20&%20Database.png?raw=true)
