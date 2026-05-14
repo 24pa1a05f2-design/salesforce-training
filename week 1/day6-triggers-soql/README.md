@@ -85,4 +85,6 @@ Enterprise systems react automatically to data changes because organizations han
 Manual processing takes more time and may lead to errors, so automation helps systems work faster and more accurately.  
 Using Triggers and event-driven behavior ensures smooth operations and better user experience in applications like college management systems.
 
+![](https://github.com/24pa1a05f2-design/salesforce-training/blob/main/week%201/day6-triggers-soql/Database%20&%20.NET%20Basics.png?raw=true)
+
 ![](https://github.com/24pa1a05f2-design/salesforce-training/blob/main/week%201/day6-triggers-soql/Apex%20Triggers.png?raw=true)
