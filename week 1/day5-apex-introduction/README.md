@@ -164,3 +164,5 @@ THEN
 Enterprise systems become more complex as organizations grow.
 At the beginning, configuration tools are enough for simple tasks. But when businesses require advanced automation, integrations, calculations, and custom processes, programming becomes necessary.
 Apex helps organizations build scalable and flexible solutions that match real business requirements. It allows developers to create smarter systems that improve efficiency, reduce manual work, and provide better user experiences.
+
+# 7.ScreenShots
