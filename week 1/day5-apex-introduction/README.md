@@ -166,3 +166,4 @@ At the beginning, configuration tools are enough for simple tasks. But when busi
 Apex helps organizations build scalable and flexible solutions that match real business requirements. It allows developers to create smarter systems that improve efficiency, reduce manual work, and provide better user experiences.
 
 # 7.ScreenShots
+![](https://github.com/24pa1a05f2-design/salesforce-training/blob/main/week%201/day5-apex-introduction/Apex%20&%20.NET%20Basics.png?raw=true)
