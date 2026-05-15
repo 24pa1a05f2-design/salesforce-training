@@ -259,5 +259,9 @@ Today I understood:
 
 This helped me think like a professional Salesforce developer.
 
+#Screenshots
+
 ![](https://github.com/24pa1a05f2-design/salesforce-training/blob/main/week%201/day7-testing-dx/Apex%20Testing.png?raw=true)
+
+![](https://github.com/24pa1a05f2-design/salesforce-training/blob/main/week%201/day7-testing-dx/Salesforce%20Dx.png?raw=true)
 
