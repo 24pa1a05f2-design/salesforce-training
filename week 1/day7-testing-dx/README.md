@@ -90,7 +90,7 @@ DX makes Salesforce development professional and scalable.
 
 ---
 
-# 4️⃣ Complete System Workflow – College Management System
+# 4️ Complete System Workflow – College Management System
 
 Below is the complete end-to-end workflow:
 
@@ -258,3 +258,6 @@ Today I understood:
 - How all Salesforce components integrate into one complete system  
 
 This helped me think like a professional Salesforce developer.
+
+![](https://github.com/24pa1a05f2-design/salesforce-training/blob/main/week%201/day7-testing-dx/Apex%20Testing.png?raw=true)
+
